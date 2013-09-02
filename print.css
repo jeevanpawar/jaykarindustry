@@ -1,0 +1,146 @@
+.tabpdf
+{
+
+	width:725px;
+}
+.tabpdf td{
+	font-size:14px;
+	text-align:center;
+	border:1px solid #EEE;
+}
+.inv{
+	margin-top:5px;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:1px;
+	font-weight:bold;
+	color:#000;
+	text-transform:uppercase;
+}
+.invoice{
+	background-color:#ABABAB;
+}
+.add
+{	
+	width:300px;
+	height:120px;
+	margin-top:-50px;
+}
+.add tr
+{
+	height:50px;
+	font-size:18px;
+	letter-spacing:1px;
+}
+.no
+{
+	width:200px;
+	margin-left:510px;
+	margin-top:-150px;
+	position:relative;
+}
+.detail table
+{
+	margin-top:5px;
+	width:725px;
+	color:#000;
+	text-align:center;
+}
+.detail table td
+{
+	border:1px solid #FFF;
+	background-color:#EEE;
+}
+.address
+{
+	font-size:14px;
+}
+.heading
+{
+	font-size:36px;
+	font-family:"MS Serif", "New York", serif;
+	text-decoration:underline;
+}
+.sub_heading
+{
+	font-size:20px;
+	font-family:"MS Serif", "New York", serif;
+}
+.quotation
+{
+	font-size:24px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.date{	
+	margin-left:80%;
+}
+.description ul{
+	border:1px solid #000; 
+}
+.description ul li
+{	
+	list-style:none;
+	display:inline;
+	padding:20px;
+}
+.report{
+	border-collapse:collapse;
+	width:720px;
+	margin-left:12px;
+}
+.report td
+{	
+	text-align:center;
+	height:25px;
+}
+.r_details
+{
+	width:723px;
+	background-color:#FFF;
+	text-align:center;
+	height:auto;
+	margin-left:-2px;
+	border-collapse:collapse;
+}
+.r_details td
+{
+	text-align:center;
+}
+.advance
+{
+	margin-top:10px;
+	width:625px;
+	margin-left:275px;
+}
+.advance td
+{
+    border:1px solid;
+	text-align:center;
+	height:50px;
+}
+.conditions
+{
+	background-color:#EEE;
+	text-align:justify;
+}
+.total
+{
+	width:720px;
+}
+.total td
+{
+	
+}
+.texta
+{
+	width:20px;
+
+	border:1px solid #000;
+}
+.tab
+{
+	margin-top:15px;
+	width:725px;
+	background-color:#EEE;
+}

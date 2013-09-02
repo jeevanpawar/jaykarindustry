@@ -1,0 +1,202 @@
+body
+{
+	background-color:#EEE;
+}
+#login-box {
+	width:330px;
+	height: 272px;
+	padding: 58px 76px 0 76px;
+	color: #ebebeb;
+	font: 12px Arial, Helvetica, sans-serif;
+	background:#FA8529;
+	box-shadow: 0px 0px 0px 15px #FFF;, 
+    14px 20px 15px 0px rgba(0, 0, 0, 0.6); 
+	
+	
+}
+.user
+{
+	color:#FFF;
+	width:300px;
+}
+.user input
+{
+	font-size:14px;
+	border:none;
+	width:295px;
+}
+
+.log
+{
+	margin-left:190px;
+	background-color:#FFF;
+	border:none;
+	font-size:18px;
+	color:#000;
+	width:100px; 
+	height:30px;
+	border: 1px solid #8ec1da;
+   background-color: #FFF;
+   border-radius: 4px;
+   box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   -o-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   -webkit-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   -moz-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   color: #3985a8;
+}
+.log:hover
+{
+	border: 1px solid #8ec1da;
+	background-color:#CCC;
+   border-radius: 4px;
+   box-shadow: inset 0 1px 3px #CCC, inset 0 -15px #CCC, 0 0 3px #CCC;
+   -o-box-shadow: inset 0 1px 3px #CCC, inset 0 -15px #CCC, 0 0 3px #CCC;
+   -webkit-box-shadow: inset 0 1px 3px #CCC, inset 0 -15px #CCC, 0 0 3px #CCC;
+   -moz-box-shadow: inset 0 1px 3px #CCC, inset 0 -15px #CCC, 0 0 3px #CCC;
+   color: #000;
+}
+
+.logcom
+{
+	margin-left:250px;
+	background-color:#FFF;
+	border:none;
+	color:#000;
+	width:50px; 
+	height:30px;
+	margin-top:-40px;
+	border: 1px solid #8ec1da;
+   background-color: #FFF;
+   border-radius: 4px;
+   box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   -o-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   -webkit-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   -moz-box-shadow: inset 0 1px 3px #fff, inset 0 -15px #cbe6f2, 0 0 3px #8ec1da;
+   color: #3985a8;
+	
+}
+
+.logcom:hover
+{
+	border: 1px solid #8ec1da;
+	background-color:#FFF;
+   border-radius: 4px;
+   box-shadow: inset 0 1px 3px #FFF, inset 0 -15px #FFF, 0 0 3px #FFF;
+   -o-box-shadow: inset 0 1px 3px #FFF, inset 0 -15px #FFF, 0 0 3px #FFF;
+   -webkit-box-shadow: inset 0 1px 3px #FFF, inset 0 -15px #FFF, 0 0 3px #FFF;
+   -moz-box-shadow: inset 0 1px 3px #FFF, inset 0 -15px #FFF, 0 0 3px #FFF;
+   color: #000;
+}
+#login-box img {
+	border:none;
+}
+
+#login-box h2 {
+	padding:0;
+	margin-top:-15px;
+	color: #ebebeb;
+	font: bold 35px "Calibri", Arial;
+	text-shadow: 0px 2px 3px #666;
+}
+
+
+#login-box-name {
+	float: left;
+	display:inline;
+	width:80px;
+	font-size:18px;
+	text-align: right;
+	padding: 14px 10px 0 0;
+	margin:0 0 7px 0;
+}
+.welcome
+{
+	margin-top:-30px;
+	margin-left:0px;
+	letter-spacing:1px;
+	font-size:16px;
+	text-transform:uppercase;
+	
+}
+.main
+{
+	letter-spacing:2px;
+	font-size:40px;
+	text-shadow: 1px 3px 2px #666;
+}
+.tour
+{
+	letter-spacing:1px;
+	font-size:30px;
+	margin-left:45px;
+	text-shadow: 1px 3px 2px #666;
+
+}
+.all
+{
+	margin-top:-25px;
+}
+
+#login-box-field {
+	float: left;
+	display:inline;
+	width:230px;
+	margin:0;
+	margin:0 0 7px 0;
+}
+#login-box-field-select select
+{
+	float: left;
+	display:inline;
+	width:250px;
+	height:33px;
+	font-size:15px;
+	margin:0;
+	margin:0 0 7px 0;
+	border:none;}
+
+#select
+{
+	font-size:12px;
+	margin-left:-100px;
+	color:#fff;
+	letter-spacing:2px;
+}
+
+.form-login  {
+	width: 205px;
+	padding: 5px 4px 5px 3px;
+	background-color:#FFF;
+	font-size: 16px;
+	color:#000;
+}
+
+
+.login-box-options  {
+	clear:both;
+	padding-left:87px;
+	font-size: 11px;
+}
+
+.login-box-options a {
+	color: #ebebeb;
+	font-size: 11px;
+}
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+ 
+.fade-in {
+    opacity:0;  /* make things invisible upon start */
+    -webkit-animation:fadeIn ease-in 0;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+    -moz-animation:fadeIn ease-in 0;
+    animation:fadeIn ease-in 0;
+ 
+    -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+ 
+    -webkit-animation-duration:2s;
+    -moz-animation-duration:2s;
+    animation-duration:2s;
+}
